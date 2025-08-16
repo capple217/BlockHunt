@@ -3,6 +3,9 @@
 *.obj
 *.d
 
+*.js
+*.js.map
+
 # Precompiled headers
 *.gch
 *.pch
