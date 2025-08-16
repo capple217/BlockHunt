@@ -3,6 +3,7 @@
 *.obj
 *.d
 
+# Compiled JavaScript and Map Files
 *.js
 *.js.map
 
